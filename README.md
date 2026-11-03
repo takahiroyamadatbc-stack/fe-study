@@ -37,10 +37,10 @@
 | [ユーザーインタフェース](3_technology-elements/07_user-interface/README.md) | 未 | 0 |
 | [情報メディア](3_technology-elements/08_information-media/README.md) | 未 | 0 |
 | [データベース](3_technology-elements/09_database/README.md) | 未 | 0 |
-| [ネットワーク](3_technology-elements/10_network/README.md) | 未 | 0 |
+| [ネットワーク](3_technology-elements/10_network/README.md) | 未 | 1 |
 | [セキュリティ](3_technology-elements/11_security/README.md) | 未 | 0 |
 | **[開発技術](4_development/README.md)** | | |
-| [システム開発技術](4_development/12_system-development/README.md) | 未 | 0 |
+| [システム開発技術](4_development/12_system-development/README.md) | 未 | 2 |
 | [ソフトウェア開発管理技術](4_development/13_software-dev-management/README.md) | 未 | 0 |
 
 ### マネジメント系
@@ -74,5 +74,6 @@
 |---|---|
 | `R1秋 FE 午前 問25 ア ×` | 問題を記録する（その後、間違えた理由を選択式で聞かれる） |
 | 問題文やスクショ＋回答 | 同上 |
-| Excel／CSVを添付 | まとめて記録する |
+| 過去問道場のCSVを添付 | まとめて記録し、×の問題を1問ずつ深掘りする |
+| 自作のExcel／CSVを添付 | まとめて記録する |
 | `復習` / `復習10` | 苦手分野から出題する（類題も含む） |
