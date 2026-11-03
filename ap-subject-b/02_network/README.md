@@ -9,6 +9,7 @@
 ## よく問われる知識
 
 - [ネットワークの知識](../../3_technology-elements/10_network/knowledge.md)
+- [LANの基礎の知識](../../3_technology-elements/10_network/lan-basics/knowledge.md)
 
 ## 問題
 

@@ -27,6 +27,7 @@
 ## 関連
 
 - [テスト技法](../test-techniques/knowledge.md)：同じ「システム開発技術」の別の論点
+- [プログラム言語](../../../1_fundamentals/02_algorithm-programming/programming-languages/knowledge.md)：オブジェクト指向言語（C++・Java・Ruby）
 
 ## 関連問題
 

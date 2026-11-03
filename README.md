@@ -26,18 +26,18 @@
 | 分野 | 習熟度 | 記録 |
 |---|---|---|
 | **[基礎理論](1_fundamentals/README.md)** | | |
-| [基礎理論](1_fundamentals/01_basic-theory/README.md) | 未 | 0 |
-| [アルゴリズムとプログラミング](1_fundamentals/02_algorithm-programming/README.md) | 未 | 0 |
+| [基礎理論](1_fundamentals/01_basic-theory/README.md) | 未 | 1 |
+| [アルゴリズムとプログラミング](1_fundamentals/02_algorithm-programming/README.md) | 未 | 1 |
 | **[コンピュータシステム](2_computer-system/README.md)** | | |
-| [コンピュータ構成要素](2_computer-system/03_computer-components/README.md) | 未 | 0 |
-| [システム構成要素](2_computer-system/04_system-components/README.md) | 未 | 0 |
+| [コンピュータ構成要素](2_computer-system/03_computer-components/README.md) | 未 | 1 |
+| [システム構成要素](2_computer-system/04_system-components/README.md) | 未 | 1 |
 | [ソフトウェア](2_computer-system/05_software/README.md) | 未 | 0 |
 | [ハードウェア](2_computer-system/06_hardware/README.md) | 未 | 0 |
 | **[技術要素](3_technology-elements/README.md)** | | |
 | [ユーザーインタフェース](3_technology-elements/07_user-interface/README.md) | 未 | 0 |
 | [情報メディア](3_technology-elements/08_information-media/README.md) | 未 | 0 |
 | [データベース](3_technology-elements/09_database/README.md) | 未 | 0 |
-| [ネットワーク](3_technology-elements/10_network/README.md) | 未 | 1 |
+| [ネットワーク](3_technology-elements/10_network/README.md) | 未 | 2 |
 | [セキュリティ](3_technology-elements/11_security/README.md) | 未 | 0 |
 | **[開発技術](4_development/README.md)** | | |
 | [システム開発技術](4_development/12_system-development/README.md) | 未 | 2 |

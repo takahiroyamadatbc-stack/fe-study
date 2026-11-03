@@ -9,6 +9,7 @@
 ## よく問われる知識
 
 - [アルゴリズムとプログラミングの知識](../../1_fundamentals/02_algorithm-programming/knowledge.md)
+- [プログラム言語の知識](../../1_fundamentals/02_algorithm-programming/programming-languages/knowledge.md)
 
 ## 問題
 
