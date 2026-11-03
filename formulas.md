@@ -25,7 +25,7 @@
 - バイトはビットに直す（**×8**）
 - 例：100Mバイト、10Mビット/秒、効率75%
   - 800Mビット ÷ 7.5Mビット/秒 ≒ 107秒
-- 関連：[ネットワークの知識](3_technology-elements/10_network/knowledge.md)
+- 関連：[データ伝送の計算の知識](3_technology-elements/10_network/data-transmission/knowledge.md)
 
 ## ストラテジ（損益分岐点・会計など）
 
