@@ -85,6 +85,7 @@ IPアドレス（Internet Protocol address）は「ネットワーク部」と�
 ## 関連
 
 - [データ伝送の計算](../data-transmission/knowledge.md)：同じ「ネットワーク」の別の論点
+- [Web](../web/knowledge.md)：LANの上で動くWebの仕組み
 
 ## 関連問題
 

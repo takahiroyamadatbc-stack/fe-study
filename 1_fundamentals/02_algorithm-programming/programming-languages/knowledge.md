@@ -38,16 +38,13 @@
 
 ### CGI [FE]
 
-**CGI（Common Gateway Interface）**は、Webサーバが**外部のプログラムを呼び出し**、その実行結果を**Webページとしてブラウザに返す**ための仕組み。
-
-- 流れ：ブラウザ → Webサーバ → CGIプログラムを実行 → 結果（HTML）をブラウザへ返す
-- 用途：掲示板やアンケートフォームなど、アクセスのたびに内容が変わる**動的なページ**
-- CGIは**言語ではなく、Webサーバとプログラムをつなぐ決まり**。Perl でよく書かれたが、C や Python などでも書ける
-- 要求のたびにプログラムを起動するため、サーバの負荷が高い。今は PHP やアプリケーションサーバが主流
+- CGI は、Webサーバが外部のプログラム（Perl などで書いたもの）を呼び出して、動的なページを返す仕組み。言語ではない
+- 詳しくは [Webの知識](../../../3_technology-elements/10_network/web/knowledge.md)（HTTP・Cookie とあわせて説明）
 
 ## 関連
 
 - [オブジェクト指向](../../../4_development/12_system-development/object-oriented/knowledge.md)：C++・Java・Ruby の土台
+- [Web](../../../3_technology-elements/10_network/web/knowledge.md)：CGI、HTTP、Cookie
 
 ## 関連問題
 

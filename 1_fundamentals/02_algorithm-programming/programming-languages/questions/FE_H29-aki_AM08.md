@@ -38,6 +38,7 @@ Perl は、テキスト処理が得意な**インタプリタ言語**。UNIX で
 ## 関連知識
 
 - [プログラム言語の知識](../knowledge.md)
+- [Webの知識](../../../../3_technology-elements/10_network/web/knowledge.md)：CGI
 
 ## 解答履歴
 

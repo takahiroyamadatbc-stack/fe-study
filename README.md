@@ -27,7 +27,7 @@
 | 分野 | 最終更新 | 記録 |
 |---|---|---|
 | **[基礎理論](1_fundamentals/README.md)** | | |
-| [基礎理論](1_fundamentals/01_basic-theory/README.md) | 26-11-03 | 1 |
+| [基礎理論](1_fundamentals/01_basic-theory/README.md) | 26-11-05 | 1 |
 | [アルゴリズムとプログラミング](1_fundamentals/02_algorithm-programming/README.md) | 26-11-05 | 1 |
 | **[コンピュータシステム](2_computer-system/README.md)** | | |
 | [コンピュータ構成要素](2_computer-system/03_computer-components/README.md) | 26-11-05 | 1 |
