@@ -3,7 +3,7 @@
 
 使い方: リポジトリのルートで `python3 _templates/update_toc.py`
 
-- 最終更新: その中カテゴリで、問題・知識を最後に追加・変更した日（日本時間）。
+- 最終更新: その中カテゴリで（YY-MM-DD 形式）、問題・知識を最後に追加・変更した日（日本時間）。
   - README.md だけの変更（統計の更新など）は数えない。
   - 「構造:」で始まるコミット（構成の変更）は数えない。
   - まだコミットしていない変更があれば、今日の日付にする。
@@ -19,7 +19,7 @@ import subprocess
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 os.chdir(ROOT)
 ENV = dict(os.environ, TZ="Asia/Tokyo")
-TODAY = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%Y-%m-%d")
+TODAY = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime("%y-%m-%d")
 
 
 def git(*args):
@@ -34,7 +34,7 @@ def pathspec(d):
 def last_update(d):
     if git("status", "--porcelain", *pathspec(d)).strip():
         return TODAY
-    out = git("log", "-1", "--date=format-local:%Y-%m-%d", "--format=%ad",
+    out = git("log", "-1", "--date=format-local:%y-%m-%d", "--format=%ad",
               "--invert-grep", "--grep=^構造:", *pathspec(d)).strip()
     return out or "-"
 
